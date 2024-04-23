@@ -1,10 +1,10 @@
-# TODO-list
+# To-Do-list
 
 Uma aplicação web para gerenciar listas de tarefas.
 
 ## Descrição
 
-TODO-list é uma aplicação web desenvolvida para ajudar na organização e gerenciamento de tarefas. Com ele, você pode criar, editar, marcar como concluídas e excluir tarefas em suas listas de verificação.
+To-Do-list é uma aplicação web desenvolvida para ajudar na organização e gerenciamento de tarefas. Com ele, você pode criar, editar, marcar como concluídas e excluir tarefas em suas listas de verificação.
 
 ## Instalação
 
