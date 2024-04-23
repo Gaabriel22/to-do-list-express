@@ -14,7 +14,7 @@ Antes de começar, certifique-se de ter o Node.js e o MongoDB instalados em seu 
 2. Navegue até o diretório do projeto no terminal.
 3. Execute o comando `npm install` para instalar as dependências.
 4. Certifique-se de ter o MongoDB em execução em sua máquina.
-5. Execute o comando `npm start` para iniciar o servidor.
+5. Execute o comando `npm run dev` para iniciar o servidor.
 6. Abra o navegador e visite o endereço correspondente do seu ambiente local (geralmente `http://localhost:3000`) para acessar a aplicação.
 
 ## Como usar
